@@ -1,7 +1,4 @@
-Welcome{Every0n3} 
-I'm 
-
- קгเภςє ♛
+Welcome{Every0n3} I'm  קгเภςє ♛
  
  💻  About Me
  
