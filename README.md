@@ -16,7 +16,7 @@ Welcome{Every0n3} I'm  קгเภςє ♛
   HTML CSS JavaScript Bootstrap
 
 👉 Databases & Cloud Hosting
-  GitHub Pages Heroku  Firebase  
+   Digital ocean  GitHub Pages Heroku  Firebase  
 
 👉Graphic Designing
   Canva
