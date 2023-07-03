@@ -13,10 +13,10 @@ Welcome{Every0n3} I'm  קгเภςє ♛
   C Javascript  Java Python
 
 👉 Frontend Development
-  HTML CSS JavaScript Bootstrap
+  HTML CSS JavaScript Bootstrap ejs
 
 👉 Databases & Cloud Hosting
-   Digital ocean  GitHub Pages Heroku  Firebase  
+   Digital ocean  GitHub Pages Heroku  Firebase  mongodb
 
 👉Graphic Designing
   Canva
